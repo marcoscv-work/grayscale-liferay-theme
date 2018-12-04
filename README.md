@@ -1,5 +1,7 @@
 # grayscale-liferay-theme
 
+![grayscale thumbnail](https://raw.githubusercontent.com/marcoscv-work/grayscale-liferay-theme/blob/master/src/images/thumbnail.png)
+
 Grayscale liferay theme is a Liferay 7.1 / 7.2 theme based in the great bootstrap theme called [grayscale](https://github.com/BlackrockDigital/startbootstrap-grayscale) created by [Start Bootstrap](http://startbootstrap.com/). under the MIT license.
 
 __The theme is under construction and in 'demo mode', soon I will migrate the contents to a site template inicializer__
